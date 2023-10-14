@@ -1,4 +1,4 @@
-# Felipe Cisternas Alvarez
+# Felipe Cisternas Álvarez
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/63937848?v=4" width="256"/>
