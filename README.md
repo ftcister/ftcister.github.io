@@ -24,15 +24,15 @@
 
 - **M.Sc in Computer Science**  
   <a href="https://usm.cl/en/home/" target="_blank">Technical University Federico Santa María</a>  
-  01/2023 - Present, Valparaíso, Chile
+  01/2023 - Present, Valparaíso, Chile.
 
 - **Engineer's Degree, Computer Science**  
   <a href="https://usm.cl/en/home/" target="_blank">Technical University Federico Santa María</a>  
-  01/2022 - 12/2023, Valparaíso, Chile
+  01/2022 - 12/2023, Valparaíso, Chile.
 
 - **B.S in Computer Science & Engineering**  
   <a href="https://usm.cl/en/home/" target="_blank">Technical University Federico Santa María</a>  
-  01/2018 - 12/2021, Valparaíso, Chile
+  01/2018 - 12/2021, Valparaíso, Chile.
 
 ---
 
@@ -70,7 +70,7 @@
 - **<a href="https://ftcister.github.io/portfolio/projects/Quantum_Qiskit_Paper.pdf" target="_blank">Quantum Classification and Quantum Key Distribution</a>** (08/2023)  
   Research and application on Quantum Machine Learning Classification and Quantum Key Distribution.
 
-- **<a href="https://ftcister.github.io/portfolio/projects/Survey_Cuantica.pdf" target="_blank">The Future of Computing: A Survey of Quantum Computing, Quantum Machine Learning, and Quantum Cryptography</a>** (08/2023)
+- **<a href="https://ftcister.github.io/portfolio/projects/Survey_Cuantica.pdf" target="_blank">The Future of Computing: A Survey of Quantum Computing, Quantum Machine Learning, and Quantum Cryptography</a>** (08/2023)  
   Survey on Quantum Computing, in the topics of Machine learning and Cryptography.
 
 - **<a href="https://ftcister.github.io/portfolio/projects/Proyecto_ML.pdf" target="_blank">Decoupling Food Segmentation</a>** (08/2022)  
@@ -100,18 +100,20 @@
 ## Achievements and Competitions
 
 - **<a href="https://sites.google.com/ing.puc.cl/hacksciml-rl4cenia" target="_blank">HackSciML</a>**  
-  - <a href="https://www.linkedin.com/feed/update/urn:li:activity:7115317516456837121/" target="_blank">Second place</a> at HackSciML, a Hackathon on Scientific Machine Learning Competition, Hosted by <a href="https://cenia.cl/" target="_blank">CENIA</a>, <a href="https://www.uc.cl/" target="_blank">PUC</a>, <a href="https://i-health.cl/" target="_blank">IHealth</a> and <a href="https://imc.uc.cl/" target="_blank">IMC</a>.
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7115317516456837121/" target="_blank">Second place</a> at HackSciML, a Hackathon on Scientific Machine Learning Competition, Hosted by <a href="https://cenia.cl/" target="_blank">CENIA</a>, <a href="https://www.uc.cl/" target="_blank">PUC</a>, <a href="https://i-health.cl/" target="_blank">IHealth</a> and <a href="https://imc.uc.cl/" target="_blank">IMC</a>.  
+  
 - **<a href="https://www.hackthechallenge.cl/" target="_blank">Hack The Challenge 2023</a>**  
-  - <a href="https://www.linkedin.com/feed/update/urn:li:activity:7115712992213618688/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7115712992213618688%29" target="_blank">Second place</a> at HackTheChallenge 2023, a Hackathon on Machine Learning and Cybersecurity competition hosted by <a href="https://www.nttdata.com/global/en/" target="_blank">NTT Data</a>.
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7115712992213618688/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7115712992213618688%29" target="_blank">Second place</a> at HackTheChallenge 2023, a Hackathon on Machine Learning and Cybersecurity competition hosted by <a href="https://www.nttdata.com/global/en/" target="_blank">NTT Data</a>.  
+  
 - **<a href="https://www.media.mit.edu/projects/mit-chile-research-workshops-human-centered-artificial-intelligence-and-data-visualization/overview/" target="_blank">Human-Centered AI & Data Visualization</a>**  
-  - <a href="https://www.linkedin.com/feed/update/urn:li:activity:7065445120761810944/" target="_blank">Workshop</a> Hosted by <a href="https://www.mit.edu/" target="_blank">MIT</a>, <a href="https://misti.mit.edu/mit-chile" target="_blank">MIT-Chile</a> and <a href="https://www.uc.cl/" target="_blank">PUC</a>. 
+  AI <a href="https://www.linkedin.com/feed/update/urn:li:activity:7065445120761810944/" target="_blank">Workshop</a> Hosted by <a href="https://www.mit.edu/" target="_blank">MIT</a>, <a href="https://misti.mit.edu/mit-chile" target="_blank">MIT-Chile</a> and <a href="https://www.uc.cl/" target="_blank">PUC</a>. 
 
 ---
 
 ## Languages
 
-- Spanish: Native
-- English: Professional Working Proficiency (TOEIC Score: 790)
+- Spanish: Native.
+- English: Professional Working Proficiency (TOEIC Score: 790).
 
 ---
 
