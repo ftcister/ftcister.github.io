@@ -8,8 +8,7 @@
 
 **About Me:** I'm a passionate Computer Science Engineer from Chile, currently pursuing my Master's degree at Federico Santa Maria University. With a keen interest in Machine Learning and Data Science, I've had the privilege to work on several innovative projects, turning ideas into reality. I believe in the power of technology to transform and improve the lives of people around the world.
 
-- **Email:** fcisternas.dev@gmail.com
-- **Location:** Chile
+- **Email:** [fcisternas.dev@gmail.com](mailto:fcisternas.dev@gmail.com)
 - **LinkedIn:** [linkedin.com/in/felipecisternasalvarez](https://linkedin.com/in/felipecisternasalvarez)
 - **GitHub:** [github.com/ftcister](https://github.com/ftcister)
 
@@ -29,13 +28,13 @@
 
 ## Work Experience
 
-- **Data Scientist, Digevo**  
+- **Data Scientist, [Digevo](https://digevo.com/en/)**  
   07/2022 - Present, Santiago, Chile  
   - Worked with Reinforcement Learning to develop a Deep Learning model that assists startups.
   - Modeled and predicted customer churn.
   - Conducted analyses and presentations on product usability and performance.
 
-- **Data Scientist, MyFuture-AI**  
+- **Data Scientist, [MyFuture-AI](https://myfuture.ai/)**  
   07/2021 - 12/2021, Santiago, Chile  
   - Worked on Computer Vision to develop an object detection model to recognize recyclable materials in images.
   - Developed a NER model based on Transformers to extract relevant information from invoices.
@@ -65,13 +64,13 @@
 - **Decoupling Food Segmentation** (03/2022 - 08/2022)  
   Research on semantic segmentation in food images.
 
-- **Interactive Black Hole Simulation** (05/2022 - 07/2022)  
+- **[Interactive Black Hole Simulation](https://github.com/ftcister/black_hole_cuda)** (05/2022 - 07/2022)  
   A black hole simulation using CUDA.
 
 - **Minimum Order Frequency Assignment Problem** (10/2021 - 12/2021)  
   Research on metaheuristics to solve the Minimum Order Frequency Assignment Problem.
 
-- **League AI Matches Predictor** (08/2021 - 09/2021)  
+- **[League AI Matches Predictor](https://github.com/ftcister/Lol-AI-Predict)** (08/2021 - 09/2021)  
   Deep Learning Model to predict the win percentage of professional e-sports team matches in League Of Legends.
 
 ## Certificates
