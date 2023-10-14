@@ -52,7 +52,7 @@
 
 - **Data Scientist, <a href="https://myfuture.ai/" target="_blank">MyFuture-AI</a>**  
   07/2021 - 12/2021, Santiago, Chile.  
-  -Work on Computer Vision to develop an object detection model to recognize recyclable materials in images.  
+  -Work with Computer Vision to develop an object detection model to recognize recyclable materials.  
   -Develop a NER model based on Transformers to extract relevant information from invoices.  
  
 ---
