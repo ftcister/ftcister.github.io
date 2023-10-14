@@ -11,6 +11,7 @@
 - **Email:** [fcisternas.dev@gmail.com](mailto:fcisternas.dev@gmail.com)
 - **LinkedIn:** [linkedin.com/in/felipecisternasalvarez](https://linkedin.com/in/felipecisternasalvarez)
 - **GitHub:** [github.com/ftcister](https://github.com/ftcister)
+- CV: [My Resume](https://ftcister.github.io/portfolio/projects/Felipe_Resume.pdf)
 
 ## Education
 
