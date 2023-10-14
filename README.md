@@ -90,6 +90,8 @@
 ## Skills
 
 - Python
+- Pytorch/Tensorflow/Keras
+- SQL
 - CUDA
 - Git
 - Docker
