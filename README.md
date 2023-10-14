@@ -1,10 +1,15 @@
-# Felipe Cisternas Álvarez
+<br />
+<br />
+
+<h1 style="text-align: center;">Felipe Cisternas Álvarez</h1>
+
+---
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/63937848?v=4" width="256"/>
 </p>
 
-**Computer Science Engineer** 
+<p style="text-align: center;"><b>Computer Science Engineer</b></p>
 
 **About Me:** I'm a passionate Computer Science Engineer from Chile, currently pursuing my Master's degree at Federico Santa Maria University. With a keen interest in Machine Learning and Data Science, I've had the privilege to work on several innovative projects, turning ideas into reality. I believe in the power of technology to transform and improve the lives of people around the world.
 
@@ -12,6 +17,8 @@
 - **LinkedIn:** <a href="https://linkedin.com/in/felipecisternasalvarez" target="_blank">linkedin.com/in/felipecisternasalvarez</a>
 - **GitHub:** <a href="https://github.com/ftcister" target="_blank">github.com/ftcister</a>
 - CV: <a href="https://ftcister.github.io/portfolio/projects/Felipe_Resume.pdf" target="_blank">My Resume</a>
+
+---
 
 ## Education
 
@@ -26,6 +33,8 @@
 - **B.S in Computer Science & Engineering**  
   <a href="https://usm.cl/en/home/" target="_blank">Technical University Federico Santa María</a>  
   01/2018 - 12/2021, Valparaíso, Chile
+
+---
 
 ## Work Experience
 
@@ -42,6 +51,8 @@
   07/2021 - 12/2021, Santiago, Chile  
   - Worked on Computer Vision to develop an object detection model to recognize recyclable materials in images.
   - Developed a NER model based on Transformers to extract relevant information from invoices.
+ 
+---
 
 ## Personal Projects
 
@@ -71,6 +82,8 @@
 - **<a href="https://github.com/ftcister/Lol-AI-Predict" target="_blank">League AI Matches Predictor</a>** (09/2021)  
   Deep Learning Model to predict the win percentage of professional e-sports team matches in League Of Legends.
 
+---
+
 ## Certificates
 
 - <a href="https://learn.microsoft.com/api/credentials/share/en-us/FelipeCisternas-5660/C7EE8D453511E660?sharingId" target="_blank">Microsoft Certified: Azure AI Fundamentals</a> (09/2023)
@@ -78,6 +91,8 @@
 - <a href="https://www.coursera.org/account/accomplishments/certificate/E2CGZHB6UCGJ" target="_blank">Structuring Machine Learning Projects</a> (01/2021)
 - <a href="https://www.coursera.org/account/accomplishments/certificate/JPQUYHSKGUTX" target="_blank">Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization</a> (08/2020)
 - <a href="https://www.coursera.org/account/accomplishments/certificate/BUBPU7V7CVGU" target="_blank">Neural Networks and Deep Learning</a> (07/2020)
+
+---
 
 ## Achievements and Competitions
 
@@ -88,10 +103,14 @@
 - **<a href="https://www.media.mit.edu/projects/mit-chile-research-workshops-human-centered-artificial-intelligence-and-data-visualization/overview/" target="_blank">Human-Centered AI & Data Visualization</a>**  
   - <a href="https://www.linkedin.com/feed/update/urn:li:activity:7065445120761810944/" target="_blank">Workshop</a> Hosted by <a href="https://www.mit.edu/" target="_blank">MIT</a>, <a href="https://misti.mit.edu/mit-chile" target="_blank">MIT-Chile</a> and <a href="https://www.uc.cl/" target="_blank">PUC</a>. 
 
+---
+
 ## Languages
 
 - Spanish: Native
 - English: Professional Working Proficiency (TOEIC Score: 790)
+
+---
 
 ## Skills
 
