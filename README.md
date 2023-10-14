@@ -45,11 +45,16 @@
 
 ## Personal Projects
 
+<!---
 - **<a href="https://ftcister.github.io/portfolio/projects/XAI.pdf" target="_blank">BATS: Bridging Acoustic Transparency in Speech</a>** (12/2023)  
   Research on Speech to Text Explainable AI Methods.
+-->
+
+- **<a href="https://ftcister.github.io/portfolio/projects/Memoria_Felipe_Cisternas.pdf" target="_blank">Recommender System Focused on Bars Using Machine Learning Techniques</a>** (08/2023)   
+  Thesis Work To Graduate as Computer Science Engineer, on Neural Recommender Systems.
 
 - **<a href="https://ftcister.github.io/portfolio/projects/Quantum_Qiskit_Paper.pdf" target="_blank">Quantum Classification and Quantum Key Distribution</a>** (08/2023)  
-  Research and application on Quantum Machine Learning Classification Problem and Quantum Key Distribution Problem.
+  Research and application on Quantum Machine Learning Classification and Quantum Key Distribution.
 
 - **<a href="https://ftcister.github.io/portfolio/projects/Survey_Cuantica.pdf" target="_blank">The Future of Computing: A Survey of Quantum Computing, Quantum Machine Learning, and Quantum Cryptography</a>** (08/2023)
   Survey on Quantum Computing, in the topics of Machine learning and Cryptography.
