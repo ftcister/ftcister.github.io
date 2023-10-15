@@ -65,7 +65,7 @@
 -->
 
 - **<a href="https://ftcister.github.io/portfolio/projects/Memoria_Felipe_Cisternas.pdf" target="_blank">Recommender System Focused on Bars Using Machine Learning Techniques</a>** (08/2023)   
-  Thesis Work To Graduate as Computer Science Engineer, on Neural Recommender Systems.
+  Thesis work with Maximum Distinction, to graduate as a Computer Science Engineer, on Neural Recommendation Systems.  
 
 - **<a href="https://ftcister.github.io/portfolio/projects/Quantum_Qiskit_Paper.pdf" target="_blank">Quantum Classification and Quantum Key Distribution</a>** (08/2023)  
   Research and application on Quantum Machine Learning Classification and Quantum Key Distribution.
