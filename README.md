@@ -116,8 +116,9 @@
 
 ## Languages
 
-- Spanish: Native.
-- English: Professional Working Proficiency (TOEIC Score: 790).
+- Spanish: Native.  
+  
+- English: Professional Working Proficiency (TOEIC Score: 790).  
 
 ---
 
