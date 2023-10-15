@@ -89,11 +89,15 @@
 
 ## Certificates
 
-- <a href="https://learn.microsoft.com/api/credentials/share/en-us/FelipeCisternas-5660/C7EE8D453511E660?sharingId" target="_blank">Microsoft Certified: Azure AI Fundamentals</a> (09/2023)
+- <a href="https://learn.microsoft.com/api/credentials/share/en-us/FelipeCisternas-5660/C7EE8D453511E660?sharingId" target="_blank">Microsoft Certified: Azure AI Fundamentals</a> (09/2023)  
+
 - <a href="https://www.credly.com/badges/b07724ee-b81f-4847-a4cd-1ec410c4e141?source=linked_in_profile" target="_blank">Agile Explorer, IBM</a> (07/2022)
+  
 - <a href="https://www.coursera.org/account/accomplishments/certificate/E2CGZHB6UCGJ" target="_blank">Structuring Machine Learning Projects</a> (01/2021)
+  
 - <a href="https://www.coursera.org/account/accomplishments/certificate/JPQUYHSKGUTX" target="_blank">Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization</a> (08/2020)
-- <a href="https://www.coursera.org/account/accomplishments/certificate/BUBPU7V7CVGU" target="_blank">Neural Networks and Deep Learning</a> (07/2020)
+  
+- <a href="https://www.coursera.org/account/accomplishments/certificate/BUBPU7V7CVGU" target="_blank">Neural Networks and Deep Learning</a> (07/2020)  
 
 ---
 
