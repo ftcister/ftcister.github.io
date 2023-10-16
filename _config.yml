@@ -5,6 +5,7 @@ plugins:
 # Basic Information 
 title: Felipe Cisternas Álvarez
 position: Computer Science Engineer
+description: Computer Science Engineer
 affiliation: null
 email: fcisternas.dev@gmail.com
 name: ""
@@ -28,7 +29,6 @@ canonical: null
 logo: assets/img/logo.png
 avatar: assets/img/logo.png
 favicon: assets/img/favicon.png
-favicon_dark: null
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
@@ -44,5 +44,5 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: null
+google_analytics: 
 
