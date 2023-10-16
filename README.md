@@ -57,7 +57,7 @@
  
 ---
 
-## Personal Projects
+## Research
 
 <!---
 - **<a href="https://ftcister.github.io/portfolio/projects/XAI.pdf" target="_blank">BATS: Bridging Acoustic Transparency in Speech</a>** (12/2023)  
@@ -65,7 +65,7 @@
 -->
 
 - **<a href="https://ftcister.github.io/portfolio/projects/Memoria_Felipe_Cisternas.pdf" target="_blank">Recommender System Focused on Bars Using Machine Learning Techniques</a>** (08/2023)   
-  Thesis work with Maximum Distinction, to graduate as a Computer Science Engineer, on Neural Recommendation Systems.  
+  Thesis work with Maximum Distinction, to graduate as a Computer Science Engineer, on Neural Recommendation Systems.
 
 - **<a href="https://ftcister.github.io/portfolio/projects/Quantum_Qiskit_Paper.pdf" target="_blank">Quantum Classification and Quantum Key Distribution</a>** (08/2023)  
   Research and application on Quantum Machine Learning Classification and Quantum Key Distribution.
@@ -76,11 +76,18 @@
 - **<a href="https://ftcister.github.io/portfolio/projects/Proyecto_ML.pdf" target="_blank">Decoupling Food Segmentation</a>** (08/2022)  
   Research on semantic segmentation in food images.
 
-- **<a href="https://github.com/ftcister/black_hole_cuda" target="_blank">Interactive Black Hole Simulation</a>** (07/2022)  
-  A black hole simulation using CUDA.
-
 - **<a href="https://ftcister.github.io/portfolio/projects/IA_Proyecto.pdf" target="_blank">Minimum Order Frequency Assignment Problem</a>** (12/2021)  
   Research on metaheuristics to solve the Minimum Order Frequency Assignment Problem.
+
+---
+
+## Personal Projects
+
+- **<a href="https://github.com/ftcister/Cropy-Recommender-System" target="_blank">Cropy Recommender System</a>** (07/2022)  
+  Recommender System for Cropy Using Tensorflow.
+
+- **<a href="https://github.com/ftcister/black_hole_cuda" target="_blank">Interactive Black Hole Simulation</a>** (07/2022)  
+  A black hole simulation using CUDA.
 
 - **<a href="https://github.com/ftcister/Lol-AI-Predict" target="_blank">League AI Matches Predictor</a>** (09/2021)  
   Deep Learning Model to predict the win percentage of professional e-sports team matches in League Of Legends.
@@ -90,7 +97,6 @@
 ## Certificates
 
 - <a href="https://learn.microsoft.com/api/credentials/share/en-us/FelipeCisternas-5660/C7EE8D453511E660?sharingId" target="_blank">Microsoft Certified: Azure AI Fundamentals</a> (09/2023)  
-
 - <a href="https://www.credly.com/badges/b07724ee-b81f-4847-a4cd-1ec410c4e141?source=linked_in_profile" target="_blank">Agile Explorer, IBM</a> (07/2022)
   
 - <a href="https://www.coursera.org/account/accomplishments/certificate/E2CGZHB6UCGJ" target="_blank">Structuring Machine Learning Projects</a> (01/2021)
