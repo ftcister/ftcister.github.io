@@ -16,13 +16,13 @@ google_scholar: https://scholar.google.com/
 cv_link: projects/Felipe_Resume.pdf
 github_link: https://github.com/ftcister
 linkedin: https://linkedin.com/in/felipecisternasalvarez
-twitter: null
+twitter: https://twitter.com/ftcister
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: AI Machine Learning Deep Learning Data Science Engineer
 description: Portfolio of Felipe Cisternas Computer Science Engineer and Msc in Computer Science
-canonical: null
+canonical: https://ftcister.github.io/portfolio/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
