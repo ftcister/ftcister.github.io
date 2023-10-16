@@ -40,20 +40,20 @@
 
 - **Data Scientist, <a href="https://digevo.com/en/" target="_blank">Digevo</a>**  
   03/2023 - Present, Santiago, Chile.  
-  -Model and predict customer churn.  
-  -Conduct analyses and presentations on product usability and performance.  
-  -Develop and maintain business cases for the company's products.  
+  - Model and predict customer churn.  
+  - Conduct analyses and presentations on product usability and performance.  
+  - Develop and maintain business cases for the company's products.  
 
  
 - **AI Engineer, <a href="https://www.digevoventures.com/" target="_blank">Digevo Ventures</a>**  
   07/2022 - 12/2022, Santiago, Chile.   
-  -Work with Reinforcement Learning to develop a Deep Learning model that assists startups.  
+  - Work with Reinforcement Learning to develop a Deep Learning model that assists startups.  
 
 
 - **Data Scientist, <a href="https://myfuture.ai/" target="_blank">MyFuture-AI</a>**  
   07/2021 - 12/2021, Santiago, Chile.  
-  -Work with Computer Vision to develop an object detection model to recognize recyclable materials.  
-  -Develop a NER model based on Transformers to extract relevant information from invoices.  
+  - Work with Computer Vision to develop an object detection model to recognize recyclable materials.  
+  - Develop a NER model based on Transformers to extract relevant information from invoices.  
  
 ---
 
@@ -90,7 +90,7 @@
   A black hole simulation using CUDA.
 
 - **<a href="https://github.com/ftcister/Lol-AI-Predict" target="_blank">League AI Matches Predictor</a>** (09/2021)  
-  Deep Learning Model to predict the win percentage of professional e-sports team matches in League Of Legends.
+  Deep Learning Model to predict the win percentage of professional e-sports team matches in League Of Legends with Keras.
 
 ---
 
@@ -123,7 +123,6 @@
 ## Languages
 
 - Spanish: Native.  
-  
 - English: Professional Working Proficiency (TOEIC Score: 790).  
 
 ---
