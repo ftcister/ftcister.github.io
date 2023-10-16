@@ -16,7 +16,7 @@
 - **Email:** <a href="mailto:fcisternas.dev@gmail.com" target="_blank">fcisternas.dev@gmail.com</a>
 - **LinkedIn:** <a href="https://linkedin.com/in/felipecisternasalvarez" target="_blank">linkedin.com/in/felipecisternasalvarez</a>
 - **GitHub:** <a href="https://github.com/ftcister" target="_blank">github.com/ftcister</a>
-- CV: <a href="https://ftcister.github.io/portfolio/projects/Felipe_Resume.pdf" target="_blank">My Resume</a>
+- **CV:** <a href="https://ftcister.github.io/portfolio/projects/Felipe_Resume.pdf" target="_blank">My Resume</a>
 
 ---
 
