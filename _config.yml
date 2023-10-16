@@ -12,7 +12,7 @@ name: ""
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar:
 cv_link: projects/Felipe_Resume.pdf
 github_link: https://github.com/ftcister
 linkedin: https://linkedin.com/in/felipecisternasalvarez
