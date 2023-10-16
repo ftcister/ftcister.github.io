@@ -1,3 +1,9 @@
+## About Me
+
+I'm a passionate Computer Science Engineer from Chile, currently pursuing my Master's degree at Federico Santa Maria University. With a keen interest in Machine Learning and Data Science, I've had the privilege to work on several innovative projects, turning ideas into reality. I believe in the power of technology to transform and improve the lives of people around the world.
+
+---
+
 ## Education
 
 - **M.Sc in Computer Science**  
