@@ -1,25 +1,3 @@
-<br />
-<br />
-
-<h1 style="text-align: center;">Felipe Cisternas Álvarez</h1>
-
----
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/63937848?v=4" width="256"/>
-</p>
-
-<p style="text-align: center;"><b>Computer Science Engineer</b></p>
-
-**About Me:** I'm a passionate Computer Science Engineer from Chile, currently pursuing my Master's degree at Federico Santa Maria University. With a keen interest in Machine Learning and Data Science, I've had the privilege to work on several innovative projects, turning ideas into reality. I believe in the power of technology to transform and improve the lives of people around the world.
-
-- **Email:** <a href="mailto:fcisternas.dev@gmail.com" target="_blank">fcisternas.dev@gmail.com</a>
-- **LinkedIn:** <a href="https://linkedin.com/in/felipecisternasalvarez" target="_blank">linkedin.com/in/felipecisternasalvarez</a>
-- **GitHub:** <a href="https://github.com/ftcister" target="_blank">github.com/ftcister</a>
-- **CV:** <a href="https://ftcister.github.io/portfolio/projects/Felipe_Resume.pdf" target="_blank">My Resume</a>
-
----
-
 ## Education
 
 - **M.Sc in Computer Science**  
