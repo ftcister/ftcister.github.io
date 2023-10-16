@@ -30,10 +30,15 @@
     <div class="wrapper">
       <header>
 
-        <h1>{{ site.title }}</h1>
+        <h1 style="font-size:1.4rem;">{{ site.title }}</h1>
         
         {% if site.avatar %}
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+        {% endif %}
+
+        {% if site.description %}
+        <description style="font-size:1.10rem;">{{ site.description }}</description>
+        <br>
         {% endif %}
 
         {% if site.position %}
@@ -57,12 +62,6 @@
         </a>  
         {% endif %}
 
-        {% if site.cv_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
-          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
-        </a>
-        {% endif %}
-
         {% if site.github_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
           <i class="fab fa-github" style="font-size:1.3rem"></i>
@@ -78,6 +77,12 @@
         {% if site.twitter %}
         <a style="margin: 0 5px 0 0" href="{{ site.twitter }}">
           <i class="fab fa-twitter" style="font-size:1.3rem"></i>
+        </a>
+        {% endif %}
+
+        {% if site.cv_link %}
+        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
+          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
         </a>
         {% endif %}
         </div>
