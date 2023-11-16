@@ -35,7 +35,7 @@ I'm a passionate Computer Science Engineer from Chile, currently pursuing my Mas
  
 - **AI Engineer, <a href="https://www.digevoventures.com/" target="_blank">Digevo Ventures</a>**  
   07/2022 - 12/2022, Santiago, Chile.   
-  - Work with Reinforcement Learning to develop a Deep Learning model that assists startups.  
+  - Work with Reinforcement Learning to develop a Deep Learning model that assists startups, recommending optimal business actions according to their status.  
 
 
 - **Data Scientist, <a href="https://myfuture.ai/" target="_blank">MyFuture-AI</a>**  
