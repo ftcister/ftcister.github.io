@@ -45,6 +45,14 @@ I'm a passionate Computer Science Engineer from Chile, currently pursuing my Mas
  
 ---
 
+## Teaching Experience
+
+- **Assistant Teacher INF-395, Deep Learning, <a href="https://usm.cl/en/home/" target="_blank">Technical University Federico Santa María</a>**  
+  08/2023 - 12/2023 Valparaiso, Chile.
+  - In charge of developing the practical evaluations for the Deep Learning course, Teaching Keras, Tensorflow and Pytorch in tasks such as Classification, Regression, Object Detection, Semantic Segmentation, PINNs, Time Series and NLP.
+
+---
+
 ## Research
 
 <!---
