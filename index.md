@@ -55,10 +55,9 @@ I'm a passionate Computer Science Engineer from Chile, currently pursuing my Mas
 
 ## Research
 
-<!---
-- **<a href="https://ftcister.github.io/portfolio/projects/XAI.pdf" target="_blank">BATS: Bridging Acoustic Transparency in Speech</a>** (12/2023)  
+
+- **<a href="https://ftcister.github.io/portfolio/projects/BATS.pdf" target="_blank">BATS: Bridging Acoustic Transparency in Speech</a>** (12/2023)  
   Research on Speech to Text Explainable AI Methods.
--->
 
 - **<a href="https://ftcister.github.io/portfolio/projects/Memoria_Felipe_Cisternas.pdf" target="_blank">Recommender System Focused on Bars Using Machine Learning Techniques</a>** (08/2023)   
   Thesis work with Maximum Distinction, to graduate as a Computer Science Engineer, on Neural Recommendation Systems.
