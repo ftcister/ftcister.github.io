@@ -30,7 +30,8 @@ I'm a passionate Computer Science Engineer from Chile, currently pursuing my Mas
   03/2023 - Present, Santiago, Chile.  
   - Model and predict customer churn.  
   - Conduct analyses and presentations on product usability and performance.  
-  - Develop and maintain business cases for the company's products.  
+  - Develop and maintain business cases for the company's products.
+  - Improve Ads Recommendation System for Telecommunications Products.
 
  
 - **AI Engineer, <a href="https://www.digevoventures.com/" target="_blank">Digevo Ventures</a>**  
