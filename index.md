@@ -26,20 +26,23 @@ I'm a passionate Computer Science Engineer from Chile, currently pursuing my Mas
 
 ## Work Experience
 
-- **Data Scientist, <a href="https://digevo.com/en/" target="_blank">Digevo</a>**  
-  03/2023 - Present, Santiago, Chile.  
+- **Machine Learning Engineer, <a href="https://notco.com/cl/" target="_blank">NotCo.</a>**  
+  01/2024 - Present, Santiago, Chile.
+
+- **Data Scientist, <a href="https://digevo.com/en/" target="_blank">Digevo.</a>**  
+  03/2023 - 12/2023, Santiago, Chile.  
   - Model and predict customer churn.  
   - Conduct analyses and presentations on product usability and performance.  
   - Develop and maintain business cases for the company's products.
   - Improve Ads Recommendation System for Telecommunications Products.
 
  
-- **AI Engineer, <a href="https://www.digevoventures.com/" target="_blank">Digevo Ventures</a>**  
+- **AI Engineer, <a href="https://www.digevoventures.com/" target="_blank">Digevo Ventures.</a>**  
   07/2022 - 12/2022, Santiago, Chile.   
   - Work with Reinforcement Learning to develop a Deep Learning model that assists startups, recommending optimal business actions according to their status.  
 
 
-- **Data Scientist, <a href="https://myfuture.ai/" target="_blank">MyFuture-AI</a>**  
+- **Data Scientist, <a href="https://myfuture.ai/" target="_blank">MyFuture-AI.</a>**  
   07/2021 - 12/2021, Santiago, Chile.  
   - Work with Computer Vision to develop an object detection model to recognize recyclable materials.  
   - Develop a NER model based on Transformers to extract relevant information from invoices.  
