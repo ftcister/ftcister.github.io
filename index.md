@@ -67,11 +67,11 @@ I'm a passionate Computer Science Engineer from Chile, currently pursuing my Mas
   Thesis work with Maximum Distinction, to graduate as a Computer Science Engineer, on Neural Recommendation Systems.
 
 - **<a href="https://ftcister.github.io/portfolio/projects/Quantum_Qiskit_Paper.pdf" target="_blank">Quantum Classification and Quantum Key Distribution</a>** (08/2023)  
-  Research and application on Quantum Machine Learning Classification and Quantum Key Distribution.
+  Research and application on Quantum Machine Learning Classification and Quantum Key Distribution.  
   [Accepted and presented at <a href="https://www.ripaisc.net/tlisc-2024/" target="_blank"> TLISC </a> in <a href="https://conferencia2024.clei.org/" target="_blank">CLEI 2024<a/> & published in <a href="https://revistas.um.edu.uy/index.php/ingenieria/issue/view/103" target="_blank">“Memoria Investigaciones en Ingeniería” (ISSN: 2301-1106)</a>, Emergent WOS.]
 
 - **<a href="https://ftcister.github.io/portfolio/projects/Survey_Cuantica.pdf" target="_blank">The Future of Computing: A Survey of Quantum Computing, Quantum Machine Learning, and Quantum Cryptography</a>** (08/2023)  
-  Survey on Quantum Computing, in the topics of Machine learning and Cryptography.
+  Survey on Quantum Computing, in the topics of Machine learning and Cryptography.  
   [Accepted and presented at <a href="https://www.ripaisc.net/tlisc-2024/" target="_blank"> TLISC </a> in <a href="https://conferencia2024.clei.org/" target="_blank">CLEI 2024<a/> & published in <a href="https://revistas.um.edu.uy/index.php/ingenieria/issue/view/103" target="_blank">“Memoria Investigaciones en Ingeniería” (ISSN: 2301-1106)</a>, Emergent WOS.]
 
 - **<a href="https://ftcister.github.io/portfolio/projects/Proyecto_ML.pdf" target="_blank">Decoupling Food Segmentation</a>** (08/2022)  
