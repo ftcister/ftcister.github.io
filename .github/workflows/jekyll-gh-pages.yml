@@ -40,13 +40,18 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - name: Cache Puppeteer Chromium
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/puppeteer
+          key: puppeteer-${{ runner.os }}-${{ hashFiles('scripts/generate-cv.js') }}
+          restore-keys: puppeteer-${{ runner.os }}-
       - name: Generate CV PDF
         run: |
           npm install puppeteer
-          # Generate to temp dir first (Docker action makes _site/ root-owned)
+          sudo apt-get install -y -qq poppler-utils 2>/dev/null || true
           mkdir -p /tmp/cv-output
           PDF_OUTPUT=/tmp/cv-output/Felipe_Resume.pdf node scripts/generate-cv.js local
-          # Copy into _site/ (needs sudo due to Docker root ownership)
           sudo mkdir -p _site/projects
           sudo cp /tmp/cv-output/Felipe_Resume.pdf _site/projects/
           echo "✅ CV PDF copied to _site/projects/"
