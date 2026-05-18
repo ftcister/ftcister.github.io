@@ -84,6 +84,9 @@ I'm a passionate Computer Science Engineer from Chile, currently pursuing my Mas
 
 ## Personal Projects
 
+- **<a href="https://github.com/ftcister/djdl" target="_blank">DJDL</a>** (05/2026)  
+  Multi-platform DJ music downloader for YouTube, Spotify, and Apple Music.
+
 - **<a href="https://github.com/ftcister/Cropy-Recommender-System" target="_blank">Cropy Recommender System</a>** (07/2022)  
   Recommender System for Cropy Using Tensorflow.
 
