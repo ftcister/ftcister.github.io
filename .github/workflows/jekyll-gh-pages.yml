@@ -36,6 +36,15 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Generate CV PDF
+        run: |
+          npm install puppeteer
+          mkdir -p _site/projects
+          PDF_OUTPUT=_site/projects/Felipe_Resume.pdf node scripts/generate-cv.js local
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
 
