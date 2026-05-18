@@ -43,8 +43,13 @@ jobs:
       - name: Generate CV PDF
         run: |
           npm install puppeteer
-          mkdir -p _site/projects
-          PDF_OUTPUT=_site/projects/Felipe_Resume.pdf node scripts/generate-cv.js local
+          # Generate to temp dir first (Docker action makes _site/ root-owned)
+          mkdir -p /tmp/cv-output
+          PDF_OUTPUT=/tmp/cv-output/Felipe_Resume.pdf node scripts/generate-cv.js local
+          # Copy into _site/ (needs sudo due to Docker root ownership)
+          sudo mkdir -p _site/projects
+          sudo cp /tmp/cv-output/Felipe_Resume.pdf _site/projects/
+          echo "✅ CV PDF copied to _site/projects/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
 
