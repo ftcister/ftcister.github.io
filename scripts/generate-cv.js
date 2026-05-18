@@ -13,7 +13,6 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 const url = require('url');
-const { spawn } = require('child_process');
 
 const SITE_DIR = path.resolve(__dirname, '..', '_site');
 const PDF_OUTPUT = process.env.PDF_OUTPUT
@@ -42,6 +41,8 @@ function findPuppeteer() {
 async function main() {
   const puppeteerPath = findPuppeteer();
   const puppeteer = require(puppeteerPath);
+
+  let localServer = null; // Track HTTP server for local mode
 
   // Determine the URL to load
   let pageUrl = process.argv[2];
@@ -86,10 +87,9 @@ async function main() {
     });
 
     await new Promise(resolve => server.listen(port, resolve));
+    localServer = server;
     pageUrl = `http://localhost:${port}/`;
     console.log(`Serving _site/ on ${pageUrl}`);
-
-    process.on('exit', () => server.close());
   }
 
   console.log(`Loading page: ${pageUrl}`);
@@ -248,6 +248,17 @@ async function main() {
     new Promise((_, reject) => setTimeout(() => reject(new Error('browser.close() timed out')), 15000)),
   ]);
   console.log('Browser closed.');
+
+  // Close local HTTP server so Node process can exit
+  if (localServer) {
+    localServer.closeAllConnections(); // Node 18.2+: force-close idle connections
+    await new Promise(resolve => {
+      localServer.close(resolve);
+      // Safety net: force exit if close takes >5s
+      setTimeout(resolve, 5000);
+    });
+    console.log('Local server closed.');
+  }
 }
 
 main().catch(err => {
