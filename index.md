@@ -60,24 +60,24 @@ I'm a passionate Computer Science Engineer from Chile, currently pursuing my Mas
 ## Research
 
 
-- **<a href="https://ftcister.github.io/portfolio/projects/BATS.pdf" target="_blank">BATS: Bridging Acoustic Transparency in Speech</a>** (12/2023)  
+- **<a href="/projects/BATS.pdf" target="_blank">BATS: Bridging Acoustic Transparency in Speech</a>** (12/2023)  
   Research on Speech to Text Explainable AI Methods.
 
-- **<a href="https://ftcister.github.io/portfolio/projects/Memoria_Felipe_Cisternas.pdf" target="_blank">Recommender System Focused on Bars Using Machine Learning Techniques</a>** (08/2023)   
+- **<a href="/projects/Memoria_Felipe_Cisternas.pdf" target="_blank">Recommender System Focused on Bars Using Machine Learning Techniques</a>** (08/2023)   
   Thesis work with Maximum Distinction, to graduate as a Computer Science Engineer, on Neural Recommendation Systems.
 
-- **<a href="https://ftcister.github.io/portfolio/projects/Quantum_Qiskit_Paper.pdf" target="_blank">Quantum Classification and Quantum Key Distribution</a>** (08/2023)  
+- **<a href="/projects/Quantum_Qiskit_Paper.pdf" target="_blank">Quantum Classification and Quantum Key Distribution</a>** (08/2023)  
   Research and application on Quantum Machine Learning Classification and Quantum Key Distribution.  
   [Accepted and presented at <a href="https://www.ripaisc.net/tlisc-2024/" target="_blank"> TLISC </a> in <a href="https://conferencia2024.clei.org/" target="_blank">CLEI 2024<a/> & published in <a href="https://revistas.um.edu.uy/index.php/ingenieria/issue/view/103" target="_blank">“Memoria Investigaciones en Ingeniería” (ISSN: 2301-1106)</a>, Emergent WOS.]
 
-- **<a href="https://ftcister.github.io/portfolio/projects/Survey_Cuantica.pdf" target="_blank">The Future of Computing: A Survey of Quantum Computing, Quantum Machine Learning, and Quantum Cryptography</a>** (08/2023)  
+- **<a href="/projects/Survey_Cuantica.pdf" target="_blank">The Future of Computing: A Survey of Quantum Computing, Quantum Machine Learning, and Quantum Cryptography</a>** (08/2023)  
   Survey on Quantum Computing, in the topics of Machine learning and Cryptography.  
   [Accepted and presented at <a href="https://www.ripaisc.net/tlisc-2024/" target="_blank"> TLISC </a> in <a href="https://conferencia2024.clei.org/" target="_blank">CLEI 2024<a/> & published in <a href="https://revistas.um.edu.uy/index.php/ingenieria/issue/view/103" target="_blank">“Memoria Investigaciones en Ingeniería” (ISSN: 2301-1106)</a>, Emergent WOS.]
 
-- **<a href="https://ftcister.github.io/portfolio/projects/Proyecto_ML.pdf" target="_blank">Decoupling Food Segmentation</a>** (08/2022)  
+- **<a href="/projects/Proyecto_ML.pdf" target="_blank">Decoupling Food Segmentation</a>** (08/2022)  
   Research on semantic segmentation in food images.
 
-- **<a href="https://ftcister.github.io/portfolio/projects/IA_Proyecto.pdf" target="_blank">Minimum Order Frequency Assignment Problem</a>** (12/2021)  
+- **<a href="/projects/IA_Proyecto.pdf" target="_blank">Minimum Order Frequency Assignment Problem</a>** (12/2021)  
   Research on metaheuristics to solve the Minimum Order Frequency Assignment Problem.
 
 ---
