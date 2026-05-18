@@ -13,7 +13,6 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 const url = require('url');
-const { spawn } = require('child_process');
 
 const SITE_DIR = path.resolve(__dirname, '..', '_site');
 const PDF_OUTPUT = process.env.PDF_OUTPUT
@@ -252,7 +251,12 @@ async function main() {
 
   // Close local HTTP server so Node process can exit
   if (localServer) {
-    await new Promise(resolve => localServer.close(resolve));
+    localServer.closeAllConnections(); // Node 18.2+: force-close idle connections
+    await new Promise(resolve => {
+      localServer.close(resolve);
+      // Safety net: force exit if close takes >5s
+      setTimeout(resolve, 5000);
+    });
     console.log('Local server closed.');
   }
 }
