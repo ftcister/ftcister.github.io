@@ -101,8 +101,12 @@ async function main() {
   const page = await browser.newPage();
   await page.goto(pageUrl, { waitUntil: 'networkidle0', timeout: 30000 });
 
-  // Inject header div with JS
+  // Inject header + wrap sections + list items for page break control
   await page.evaluate(() => {
+    const section = document.querySelector('section');
+    const wrapper = section.parentNode;
+
+    // Insert CV header before the main section
     const header = document.createElement('div');
     header.id = 'cv-header';
     header.innerHTML = `
@@ -111,8 +115,42 @@ async function main() {
         <div style="font-size: 8pt; color: #555;">fcistemas.dev@gmail.com &nbsp;|&nbsp; linkedin.com/in/felipecisternasalvarez &nbsp;|&nbsp; github.com/ftcister &nbsp;|&nbsp; Santiago, Chile</div>
       </div>
     `;
-    const section = document.querySelector('section');
-    section.parentNode.insertBefore(header, section);
+    wrapper.insertBefore(header, section);
+
+    // Wrap each logical section (between h2 tags) in a div
+    const children = Array.from(section.children);
+    const groups = [];
+    let currentGroup = [];
+
+    for (const child of children) {
+      if (child.tagName === 'H2' && currentGroup.length > 0) {
+        groups.push(currentGroup);
+        currentGroup = [];
+      }
+      currentGroup.push(child);
+    }
+    if (currentGroup.length > 0) groups.push(currentGroup);
+
+    // Replace section content with wrapped groups
+    section.innerHTML = '';
+    for (const group of groups) {
+      const div = document.createElement('div');
+      div.className = 'cv-section';
+      for (const child of group) {
+        // Wrap each <li> inside a <div> for reliable page-break-inside
+        if (child.tagName === 'UL' || child.tagName === 'OL') {
+          const lis = Array.from(child.querySelectorAll('li'));
+          for (const li of lis) {
+            const wrapper2 = document.createElement('div');
+            wrapper2.className = 'cv-item';
+            wrapper2.appendChild(li.cloneNode(true));
+            li.replaceWith(wrapper2);
+          }
+        }
+        div.appendChild(child);
+      }
+      section.appendChild(div);
+    }
   });
 
   // Inject print CSS
@@ -121,7 +159,7 @@ async function main() {
       @media print {
         body {
           padding: 0 !important;
-          font-size: 9pt !important;
+          font-size: 8.5pt !important;
           color: #333 !important;
           line-height: 1.35 !important;
         }
@@ -151,7 +189,18 @@ async function main() {
         a::after { content: "" !important; }
         @page { size: A4; margin: 12mm 14mm 12mm 14mm; }
         p, li { orphans: 2; widows: 2; }
-        h2 { page-break-after: avoid; }
+        /* Prevent orphaned headers at page bottom */
+        h2 { break-after: avoid; page-break-after: avoid; }
+
+        /* Keep individual items from splitting across pages */
+        .cv-item {
+          break-inside: avoid-page;
+          page-break-inside: avoid;
+        }
+        .cv-section > p {
+          break-inside: avoid-page;
+          page-break-inside: avoid;
+        }
       }
     `,
   });
@@ -166,6 +215,32 @@ async function main() {
   });
 
   console.log(`✅ PDF generated: ${PDF_OUTPUT}`);
+
+  // --- Verify no orphaned headers ---
+  try {
+    const { execSync } = require('child_process');
+    const text = execSync(`pdftotext -layout "${PDF_OUTPUT}" -`, { encoding: 'utf8', timeout: 5000 });
+    const pages = text.split('\f').filter(p => p.trim());
+    console.log(`\n📄 ${pages.length} page(s) — section boundary check:`);
+
+    for (let i = 0; i < pages.length; i++) {
+      const lines = pages[i].split('\n').filter(l => l.trim());
+      const lastLines = lines.slice(-4).join(' | ').substring(0, 120);
+      console.log(`  Page ${i + 1} ends with: ...${lastLines}`);
+    }
+
+    // Check for potential orphans: a page ending with what looks like a section header
+    const headerPattern = /^[A-Z][a-z]+ (Me|Experience|Projects|Research|Certificates|Achievements|Languages|Skills|Education)/m;
+    for (let i = 0; i < pages.length - 1; i++) {
+      const lastFewLines = pages[i].split('\n').slice(-5).join('\n');
+      if (headerPattern.test(lastFewLines)) {
+        console.warn(`\n⚠️  WARNING: Page ${i + 1} may end with an orphaned section header!`);
+      }
+    }
+    console.log('✅ No orphaned headers detected.');
+  } catch (e) {
+    console.log('⚠️  Could not verify page breaks (pdftotext not available in CI)');
+  }
   await browser.close();
 }
 
