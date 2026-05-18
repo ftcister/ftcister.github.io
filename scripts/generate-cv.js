@@ -241,7 +241,13 @@ async function main() {
   } catch (e) {
     console.log('⚠️  Could not verify page breaks (pdftotext not available in CI)');
   }
-  await browser.close();
+
+  console.log('Closing browser...');
+  await Promise.race([
+    browser.close(),
+    new Promise((_, reject) => setTimeout(() => reject(new Error('browser.close() timed out')), 15000)),
+  ]);
+  console.log('Browser closed.');
 }
 
 main().catch(err => {
