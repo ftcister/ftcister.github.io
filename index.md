@@ -51,7 +51,7 @@ I'm a passionate Computer Science Engineer from Chile, currently pursuing my Mas
 
 ## Teaching Experience
 
-- **Assistant Teacher INF3822, Applied Project I, <a href="https://mia.uc.cl/" target="_blank">Master in Artificial Intelligence, Pontifica Universidad Catolica de Chile</a>**  
+- **Assistant Teacher INF3822, Applied Project I, <a href="https://mia.uc.cl/" target="_blank">Master in Artificial Intelligence, Pontifical Catholic University of Chile</a>**  
   08/2025 - 12/2025 Santiago, Chile.
   - In charge of developing the practical classes and evaluations for Applied Project I, Teaching Retrieval Augmented Generation and Agentic Systems & Patterns.
 
