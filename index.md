@@ -51,6 +51,10 @@ I'm a passionate Computer Science Engineer from Chile, currently pursuing my Mas
 
 ## Teaching Experience
 
+- **Assistant Teacher INF3822, Applied Project I, <a href="https://mia.uc.cl/" target="_blank">Master in Artificial Intelligence, Pontifica Universidad Catolica de Chile</a>**  
+  08/2025 - 12/2025 Santiago, Chile.
+  - In charge of developing the practical classes and evaluations for Applied Project I, Teaching Retrieval Augmented Generation and Agentic Systems & Patterns.
+
 - **Assistant Teacher INF-395, Deep Learning, <a href="https://usm.cl/en/home/" target="_blank">Technical University Federico Santa María</a>**  
   08/2023 - 12/2023 Valparaiso, Chile.
   - In charge of developing the practical evaluations for the Deep Learning course, Teaching Keras, Tensorflow and Pytorch in tasks such as Classification, Regression, Object Detection, Semantic Segmentation, PINNs, Time Series and NLP.
