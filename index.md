@@ -27,7 +27,12 @@ I'm a passionate Computer Science Engineer from Chile, currently pursuing my Mas
 ## Work Experience
 
 - **Machine Learning Engineer, <a href="https://notco.com/cl/" target="_blank">NotCo.</a>**  
-  01/2024 - Present, Santiago, Chile.
+  01/2024 - Present, Santiago, Chile.  
+  - Develop the Bayesian Optimization engine powering Giuseppe's AI-assisted experimentation platform.
+  - Build LLM agents and RAG systems for food R&D in the Discovery Platform, an Agentic solution for Formulation and Research.
+  - Train and finetune multimodal GNN and Transformer models for compound recommendation.
+  - Develop shelf-life prediction models for food products, from exploratory analysis and baselines to a deployed pipeline.  
+  - Lead AI-assisted development standards for the engineering team, shipping an internal coding-agent plugin with shared rules, skills and automated code review.  
 
 - **Data Scientist, <a href="https://digevo.com/en/" target="_blank">Digevo.</a>**  
   03/2023 - 12/2023, Santiago, Chile.  
@@ -139,16 +144,8 @@ I'm a passionate Computer Science Engineer from Chile, currently pursuing my Mas
 
 ## Skills
 
-- Python
-- Pytorch/Tensorflow/Keras
-- SQL
-- CUDA
-- Git
-- Docker
-- Cloud: AWS/Azure
-- AI/Machine Learning/Deep Learning
-- Quantum Computing
-- Data Science
-- Engineering
+- **Languages:** Python.
+- **ML/AI:** Pytorch, LLMs/RAG/Agents, Recommendation Systems, Bayesian Optimization, Machine Learning/Deep Learning, Data Science, Quantum Computing.
+- **Backend & Infra:** FastAPI/Celery, Docker/Kubernetes, Git, Cloud: GCP
 
 ---
